@@ -10,6 +10,8 @@
 	<string>ZDzhihuIndicator</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>4F6B381852AB47DE93FBC825CD86C88AB85086E6</key>
+		<string>https://github.com/shinept/ZDzhihuIndicator.git</string>
 		<key>7EF45B08EFDC025C0A92900DD711AEC4D71963F9</key>
 		<string>github.com:shinept/ZDzhihuIndicator.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>ZDzhihuIndicator.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>7EF45B08EFDC025C0A92900DD711AEC4D71963F9</key>
+		<key>4F6B381852AB47DE93FBC825CD86C88AB85086E6</key>
 		<string>../..</string>
+		<key>7EF45B08EFDC025C0A92900DD711AEC4D71963F9</key>
+		<string>../../../ZDzhihuIndicator</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:shinept/ZDzhihuIndicator.git</string>
+	<string>https://github.com/shinept/ZDzhihuIndicator.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7EF45B08EFDC025C0A92900DD711AEC4D71963F9</string>
+	<string>4F6B381852AB47DE93FBC825CD86C88AB85086E6</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>7EF45B08EFDC025C0A92900DD711AEC4D71963F9</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ZDzhihuIndicator</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4F6B381852AB47DE93FBC825CD86C88AB85086E6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZDzhihuIndicator-master</string>
 		</dict>
 	</array>
 </dict>

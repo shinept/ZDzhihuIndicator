@@ -92,13 +92,9 @@ class ZDzhihuIndicator: UIView {
     }()
     
     //6
-<<<<<<< HEAD
+
     override init(frame: CGRect) {
         super.init(frame:CGRectZero)
-=======
-    override init() {
-        super.init()
->>>>>>> 8a66902aaf0985c9707a6f96ba3cbf15a3def4f0
         self.alpha = 0
         self.frame = self.maskWindow!.bounds
         self.layer.addSublayer(self.indicatorLayer)
@@ -107,14 +103,6 @@ class ZDzhihuIndicator: UIView {
     required init(coder aDecoder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
     }
-    
-<<<<<<< HEAD
-
-=======
-    override init(frame: CGRect) {
-        super.init(frame: CGRectZero)
-    }
->>>>>>> 8a66902aaf0985c9707a6f96ba3cbf15a3def4f0
     
     
     class func show() {
